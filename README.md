@@ -5,7 +5,6 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![LaTeX](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Manchajm-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-manchajm/)
 
 
 ---
