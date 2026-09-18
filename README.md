@@ -1,8 +1,5 @@
-<div align="center">
 
-# Jacquenetta
-
-**A modern, minimalist Beamer theme for scientific presentations**
+# Minimalist Beamer Theme
 
 `\usetheme{Jacquenetta}`
 
@@ -10,7 +7,6 @@
 [![LaTeX](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Manchajm-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-manchajm/)
 
-</div>
 
 ---
 
@@ -155,8 +151,6 @@ Standard TeX Live 2020+ or MiKTeX 24+ installation. Required packages: `tikz`, `
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+This work is based on the [Jacquenetta Beamer Theme from Samuel Machajm](https://github.com/smanchajm/Jacquenetta-beamer-theme), which is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-You are free to use, adapt, and redistribute this theme — including for commercial purposes — as long as you credit the original author and share any modifications under the same license.
-
-2026 Samuel Manchajm
+The source files in this repository, in particular the modifications done to Jacquenetta, are licensed under the MIT License.
